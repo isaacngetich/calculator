@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644932581 source:c:\users\admin\documents\codeblock\simple calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
